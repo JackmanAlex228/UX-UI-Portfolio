@@ -29,8 +29,5 @@ These are some buttons I made for my DeviantArt page back when I was in Snow Col
 ![alt text](https://github.com/JackmanAlex228/UX-UI-Portfolio/blob/master/Assets/Picarto%20Button.png)
 ![alt text](https://github.com/JackmanAlex228/UX-UI-Portfolio/blob/master/Assets/Tumblr%20Button.png)
 ![alt text](https://github.com/JackmanAlex228/UX-UI-Portfolio/blob/master/Assets/Twitter%20Button.png)
-![alt text](https://github.com/JackmanAlex228/UX-UI-Portfolio/blob/master/Assets/Weasyl%20Button.png)
-![alt text](https://github.com/JackmanAlex228/UX-UI-Portfolio/blob/master/Assets/FurAffinity%20Button.png)
-![alt text](https://github.com/JackmanAlex228/UX-UI-Portfolio/blob/master/Assets/Furry%20Nwtwork%20Button.png)
 
 There are some more graphics I made in my Graphics and Logos folder
